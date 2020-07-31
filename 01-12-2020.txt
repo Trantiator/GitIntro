@@ -1,0 +1,8 @@
+https://edabit.com/challenges
+https://www.tutorialspoint.com/python/python_online_test.htm
+https://realpython.com/quizzes/
+https://www.tutorialspoint.com/sql/sql_online_test.htm
+https://www.hackerrank.com/domains/sql
+
+https://dotnetbasic.com/2019/11/python-pandas-interview-questions.html
+https://www.dezyre.com/article/100-data-science-in-python-interview-questions-and-answers-for-2018/188
